@@ -18,6 +18,7 @@ TIPOLOGIAS E VARIÁVEIS:
 1) Tipos:
     a) Numéricos:
         Inteiros: 0, 2, 5, -7, -15, etc.
+        Reais: 0, 2.96, 5, -7.55, -15, etc.
     b) Caracteres: Tudo que não for numérico, mas que, naturalmente, o computador converte para numérico
     Exemplo: CASA, que possui letras das posições 0 a 3 e a palavra tem um tamanho (lengh) 4.
     c) Lógicos: Booleano (Verdadeiro [1] ou Falso[0])
