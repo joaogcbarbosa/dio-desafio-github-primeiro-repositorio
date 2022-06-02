@@ -1,5 +1,7 @@
+Passos para a criação do Repositório Remoto:
+
 1) Ao abrir o GitHub Desktop, selecione "Create a new repository on your Hard Disk";
-2) Ao preencher os dados que aparecerão, marque a opção que diz "Initialize with README". Nesse mesmo preenchimento de dados é recomendável fazer alteração no Local Path, apenas por questão de organização. Em "License", selecione "MIT License". SIga com a criação do repositório;
+2) Ao preencher os dados que aparecerão, marque a opção que diz "Initialize with README". Nesse mesmo preenchimento de dados é recomendável fazer alteração no Local Path, apenas por questão de organização. Em "License", selecione "MIT License". Siga com a criação do repositório;
 *Lembre-se que ao executar "Create repository", o repositório criado é o local (Git), deve-se ainda fazer o push para o GitHub*
 3) Ainda no GitHub Desktop, acionar "Publish Repository" (desmarque a opção "Keep this code private").Fazendo isso, o arquivo estará no repositório remoto;
 4) Abrindo o Visual Studio pela opção que o GitHub Desktop fornece, o repositório automaticamente será aberto para eventuais modificações;
