@@ -1,0 +1,26 @@
+PENSAMENTO COMPUTACIONAL:
+O pensamento computacional é destrinchado em 4 pontos: Decomposição, Padrões, Abstração e Design de Algoritmos.
+1) Decomposição: É simplesmente o fato de repartir um problema total em vários "probleminhas", tornando o total mais fácil de ser resolvido;
+2) Padrões: Identificação de similaridades para classificar dados;
+3) Abstração: A partir do entendimento do problema, o exemplificar para chegar em uma fórmula geral;
+4) Design de Algoritmo: Definição do passo a passo para a resolução do problema. São as instruções detalhadas para que o computador processe o que o usuário deseja.
+
+TÉCNICAS PARA A RESOLUÇÃO DE PROBLEMAS:
+1) Técnica Linear: É uma execução sequenciada, em uma única dimensão. 
+Exemplo: Acordar -> Levantar -> Preparar café -> Tomar café da manhã;
+
+2) Técnica Estruturada: Diferente da Técnica Linear, uma hora a sequência é quebrada e uma decisão precisa ser tomada. 
+Exemplo: Acordar -> Levantar -> Preparar café OU suco -> Tomar café da manhã;
+
+3) Técnica Modular: Quando situações Lineares E Estruturadas estão presentes. Portanto, a Técnica Modular está automaticamente atrelada à resolução de problemas através da Decomposição.
+
+TIPOLOGIAS E VARIÁVEIS:
+1) Tipos:
+    a) Numéricos:
+        Inteiros: 0, 2, 5, -7, -15, etc.
+    b) Caracteres: Tudo que não for numérico, mas que, naturalmente, o computador converte para numérico
+    Exemplo: CASA, que possui letras das posições 0 a 3 e a palavra tem um tamanho (lengh) 4.
+    c) Lógicos: Booleano (Verdadeiro [1] ou Falso[0])
+
+2) Variáveis: São mutáveis e inconstantes (recebem dados).
+Exemplo: a = b - c ("a" recebe "b" menos "c")
