@@ -1,0 +1,15 @@
+1) Ao abrir o GitHub Desktop, selecione "Create a new repository on your Hard Disk";
+2) Ao preencher os dados que aparecerão, marque a opção que diz "Initialize with README". Nesse mesmo preenchimento de dados é recomendável fazer alteração no Local Path, apenas por questão de organização. Em "License", selecione "MIT License". SIga com a criação do repositório;
+*Lembre-se que ao executar "Create repository", o repositório criado é o local (Git), deve-se ainda fazer o push para o GitHub*
+3) Ainda no GitHub Desktop, acionar "Publish Repository" (desmarque a opção "Keep this code private").Fazendo isso, o arquivo estará no repositório remoto;
+4) Abrindo o Visual Studio pela opção que o GitHub Desktop fornece, o repositório automaticamente será aberto para eventuais modificações;
+5) Pelo Visual Studio pode-se fazer quaisquer alterações, naturalmente o GitHub Desktop identificará essas modificações e se atualizará;
+6) Para que o versionamento seja identificado pelo GitHub, basta, no GitHub Desktop, executar a opção "Commit to Master". Essa ação apenas enviará para o REPOSITÓRIO LOCAL. Para executar a atualização no site, deve-se fazer o "push" no GitHub Desktop;
+7) Pode-se também modificar o repositório local pelo remoto;
+8) Caso sejam feitas modificações pelo repositório remoto, o GitHub Desktop identificará e irá segurir o "pull", o qual puxa os dados que estão no repositório remoto para o local, assim como "push" faz o contrário.
+*Git, GitHub, GitHub Desktop e Visual Studio Code são todos programas da Microsoft. Devido a isso que toda essa integração que é observada nas atualizações automáticas é possível*
+
+Links úteis: 
+Download do Git: https://git-scm.com/
+Download do GitHub Desktop: https://desktop.github.com/
+Download do Visual Studio Code: https://code.visualstudio.com/
